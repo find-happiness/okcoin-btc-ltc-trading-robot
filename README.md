@@ -1,9 +1,9 @@
 # Description
-  - This is a trading robot for the BTC/LTC trading platform 'OKCoin(www.okcoin.cn)'
+  - This is a trading robot for the BTC/LTC trading platform 'OKCoin(www.okcoin.cn)'.
 
 # How to use it directly
   - This is an AndroidStudio porject, so just import it into your AndroidStudio.
-  - Set your OKCoin 'API_KEY' and 'API_SECRET' at: 'app/src/main/java/com/leonard/sg/okcoin/constant/Constants.java'
+  - Set your OKCoin 'API_KEY' and 'API_SECRET' at: 'app/src/main/java/com/leonard/sg/okcoin/constant/Constants.java'.
   - Build it as an apk then install on your Android phone, then you can use it.
   
 # About the default trading algorithm
@@ -13,6 +13,6 @@
   - You can refer to the one in 'app/src/main/java/com/leonard/sg/okcoin/strategy/coverage'.
   
 # NOTICE
-  - **This project got halted due to the unbearable super long request delay when tried to access OKCoin(www.okcoin.cn) from otside of China Mainland.**
+  - **This project got halted due to the unbearable super long transaction API request delay when tried to access OKCoin(www.okcoin.cn) from outside of China Mainland.**
 
 
