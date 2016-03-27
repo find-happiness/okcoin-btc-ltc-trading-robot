@@ -3,7 +3,7 @@
 
 # How to use it directly
   - This is an AndroidStudio porject, so just import it into your AndroidStudio.
-  - Set your OKCoin 'API_KEY' and 'API_SECRET' at: 'app/src/main/java/com/leonard/sg/okcoin/constant/Constants.java'.
+  - Set your OKCoin 'CN_API_KEY' and 'CN_API_SECRET' at: '/app/src/main/java/com/leonard/sg/okcoin/service/robot/constant/SyncConstants.java'.
   - Build it as an apk then install on your Android phone, then you can use it.
   
 # About the default trading algorithm
